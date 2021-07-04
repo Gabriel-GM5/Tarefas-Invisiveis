@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    min-height: 80vh;
+    flex-direction: column;
+  }
+
+  div .login {
+    padding-top: 15vh;
+  }
+
+  .scroll {
+    height: 50vh;
+    overflow: auto;
+  }
